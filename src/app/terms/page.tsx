@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { Link } from 'next/link'
+import Link from 'next/link'
 import { ArrowLeft, FileText, Shield, AlertCircle, CheckCircle, Scale, Clock } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
